@@ -23,6 +23,8 @@ namespace EOGWpfTest
         public MainWindow()
         {
             InitializeComponent();
+
+
         }
     }
 }
