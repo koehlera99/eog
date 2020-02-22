@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace EOGWpfTest.Data
 {
+    //Simple change test, please delete this comment ASAP
     class DataProvider
     {
     }
